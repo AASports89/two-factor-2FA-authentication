@@ -1,6 +1,5 @@
-# Two Factor Authentication-(2FA)-Java
-======================================
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](#isc-license)
+# Two Factor Authentication-(2FA)-Java [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](#isc-license)
+
 ## Overview:
 
 **Two Factor Authentication-(2FA)-Java** uses Time-based One-time Password ```TOTP``` algorithm.
