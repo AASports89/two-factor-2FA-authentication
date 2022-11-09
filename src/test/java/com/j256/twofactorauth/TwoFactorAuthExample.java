@@ -3,9 +3,9 @@ package com.j256.twofactorauth;
 /**
  * Little test program to show how to use the TwoFactorAuthUtil utility class.
  * 
- * See: https://github.com/j256/java-two-factor-auth
+ * See: https://github.com/j256/two-factor-2FA-authentication
  * 
- * @author graywatson
+ * @author AASports89
  */
 public class TwoFactorAuthExample {
 

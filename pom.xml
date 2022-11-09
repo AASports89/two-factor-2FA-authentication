@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.j256.two-factor-auth</groupId>
-	<artifactId>two-factor-auth</artifactId>
+	<groupId>com.j256.two-factor-2FA-authentication</groupId>
+	<artifactId>two-factor-2FA-authentication</artifactId>
 	<version>1.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>Two Factor Auth</name>
-	<url>https://github.com/j256/two-factor-2FA-authentication</url>
-	<description>Two Factor Authentication (Auth) implementation for Java which uses the Time-based One-time Password (TOTP) algorithm.</description>
+	<name>Two Factor Authentication-(2FA)-Java</name>
+	<url>https://github.com/two-factor-2FA-authentication</url>
+	<description>Two Factor Authentication-(2FA)-Java implementation for ```Java``` which uses the Time-based One-time Password ```TOTP``` algorithm.</description>
 	<licenses>
 		<license>
 			<name>ISC License</name>

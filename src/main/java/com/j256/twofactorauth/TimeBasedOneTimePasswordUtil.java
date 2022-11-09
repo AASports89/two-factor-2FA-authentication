@@ -30,14 +30,13 @@ import javax.crypto.spec.SecretKeySpec;
  * </ol>
  * 
  * <p>
- * See: https://github.com/j256/two-factor-auth
+ * See: https://github.com/j256/two-factor-2FA-authentication
  * </p>
  * 
  * <p>
  * For more details about this magic algorithm, see: http://en.wikipedia.org/wiki/Time-based_One-time_Password_Algorithm
  * </p>
  * 
- * @author graywatson
  */
 public class TimeBasedOneTimePasswordUtil {
 
