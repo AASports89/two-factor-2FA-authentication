@@ -31,8 +31,8 @@ You can use this code with the ```Google Authenticator``` or the ```Authy``` mob
 ``` xml
 <dependencies>
 	<dependency>
-		<groupId>com.j256.two-factor-auth</groupId>
-		<artifactId>two-factor-auth</artifactId>
+		<groupId>two-factor-2FA-authentication</groupId>
+		<artifactId>two-factor-2FA-authentication</artifactId>
 		<version>1.3</version>
 	</dependency>
 </dependencies>

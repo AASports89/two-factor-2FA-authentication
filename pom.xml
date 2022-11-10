@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.j256.two-factor-2FA-authentication</groupId>
+	<groupId>com.AASports89.two-factor-2FA-authentication</groupId>
 	<artifactId>two-factor-2FA-authentication</artifactId>
 	<version>1.4-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Two Factor Authentication-(2FA)-Java</name>
 	<url>https://github.com/two-factor-2FA-authentication</url>
-	<description>Two Factor Authentication-(2FA)-Java implementation for ```Java``` which uses the Time-based One-time Password ```TOTP``` algorithm.</description>
+	<description>Two Factor Authentication-(2FA)-Java implementation for Java which uses the Time-based One-time Password TOTP algorithm.</description>
 	<licenses>
 		<license>
 			<name>ISC License</name>
@@ -25,9 +25,9 @@
 		<junit-version>4.13.2</junit-version>
 	</properties>
 	<scm>
-		<url>https://github.com/j256/two-factor-2FA-authentication</url>
-		<connection>scm:git:ssh://git@github.com/j256/two-factor-2FA-authentication.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/j256/two-factor-2FA-authentication.git</developerConnection>
+		<url>https://github.com/AASports89/two-factor-2FA-authentication</url>
+		<connection>scm:git:ssh://git@github.com/AASports89/two-factor-2FA-authentication.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/AASports89/two-factor-2FA-authentication.git</developerConnection>
 	</scm>
 	<profiles>
 		<profile>
@@ -56,7 +56,7 @@
 		</profile>
 	</profiles>
 	<build>
-		<finalName>two-factor-auth</finalName>
+		<finalName>two-factor-2FA-authentication</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -106,9 +106,9 @@
 				<configuration>
 					<showPackage>false</showPackage>
 					<bottom>
-						This content is licensed by Gray Watson under the
+						This content is licensed under the
 						&lt;a
-						href="https://creativecommons.org/licenses/by-sa/3.0/" &gt;Creative Commons Attribution-Share Alike 3.0 License.
+						href="https://img.shields.io/badge/License-ISC-blue.svg" &gt;License-ISC License.
 						&lt;/a&gt; </bottom>
 					<additionalparam>-tag inheritDoc:X ${disableDoclint}</additionalparam>
 					<excludePackageNames>
@@ -134,7 +134,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<!-- j256 Releases (Code releases for j256.com) <j256@256stuff.com> -->
+					<!-- Code Relases Source Site: <j256@256stuff.com> -->
 					<keyname>D3412AC1</keyname>
 				</configuration>
 			</plugin>
